@@ -1,5 +1,5 @@
 <div align="center
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00f900,100:&height=120&text=zoohunn&animation=&fontColor=444444&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00f900,100:&height=120&text=juhun-ham&animation=&fontColor=444444&fontSize=70" />
 </div>
 
 <div align="center">
@@ -50,8 +50,4 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
   <br>
-
-  <h2>Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=juhun-ham&bg_color=180,000000,&title_color=ffffff&text_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhun-ham&layout=compact&bg_color=180,000000,&title_color=ffffff&text_color=ffffff" />
 </div>
